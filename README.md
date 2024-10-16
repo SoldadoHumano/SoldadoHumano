@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Vitor! 👋
 
-<!--
-**SoldadoHumano/SoldadoHumano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Java, focado em criar plugins para Minecraft e em melhorar minhas habilidades de backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+- **Linguagens**: Java, Python (Estudando)
+- **Ferramentas**: Git, Maven, IntelliJ IDEA
+- **Frameworks**: Bukkit/Spigot API (Minecraft).
+
+---
+
+## Certificações
+- [Curso lógica de programação & algoritmo](https://www.udemy.com/course/java-curso-logica-de-programacao)
+- [Curso de Java](https://www.udemy.com/course/java-curso-completo/?couponCode=ST8MT101424)
+
+---
+
+## Onde me encontrar
+- Discord: vitor1227_OP
+- E-mail: vitoralexandrewilbornoficial@gmail.com
+- [Instagram](https://www.instagram.com/vitoralexandrewilborn)
+
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SoldadoHumano&show_icons=true&theme=radical)
