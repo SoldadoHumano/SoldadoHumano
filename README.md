@@ -23,5 +23,3 @@ Sou um desenvolvedor Java, focado em criar plugins para Minecraft e em melhorar 
 - [Instagram](https://www.instagram.com/vitoralexandrewilborn)
 
 ---
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SoldadoHumano&show_icons=true&theme=radical)
