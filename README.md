@@ -14,6 +14,7 @@ Sou um desenvolvedor Java, focado em criar plugins para Minecraft e em melhorar 
 ## Certificações
 - [Curso lógica de programação & algoritmo](https://www.udemy.com/course/java-curso-logica-de-programacao)
 - [Curso de Java](https://www.udemy.com/course/java-curso-completo/?couponCode=ST8MT101424)
+- [Develop Minecraft Plugins](https://www.udemy.com/course/develop-minecraft-plugins-java-programming)
 
 ---
 
