@@ -18,6 +18,12 @@ Sou um desenvolvedor Java, focado em criar plugins para Minecraft e em melhorar 
 
 ---
 
+## Projetos em Destaque
+
+- FlappyBird: [FlappyBird](https://github.com/SoldadoHumano/FlappyBird)
+
+---
+
 ## Onde me encontrar
 - Discord: vitor1227_OP
 - E-mail: vitoralexandrewilbornoficial@gmail.com
