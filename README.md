@@ -27,7 +27,7 @@ Sou um desenvolvedor Java, focado em criar plugins para Minecraft e em melhorar 
 ## Onde me encontrar
 - Discord: vitor1227_OP
 - E-mail: vitoralexandrewilbornoficial@gmail.com
-- [Instagram](https://www.instagram.com/vitoralexandrewilborn)
+- Instagram: [Instagram](https://www.instagram.com/vitoralexandrewilborn)
 
 ---
 ![Commits](https://github-readme-stats.vercel.app/api?username=SoldadoHumano&show_icons=true&hide=contribs,prs&count_private=true&theme=dark)   ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoldadoHumano&layout=compact&theme=dark)
