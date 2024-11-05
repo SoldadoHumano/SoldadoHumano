@@ -5,7 +5,7 @@ Sou um desenvolvedor Java, focado em criar plugins para Minecraft e em melhorar 
 ---
 
 ## Tecnologias e Ferramentas
-- **Linguagens**: Java, Python (Estudando)
+- **Linguagens**: Java, C# (Estudando.)
 - **Ferramentas**: Git, Maven, IntelliJ IDEA
 - **Frameworks**: Bukkit/Spigot API (Minecraft).
 
