@@ -7,7 +7,7 @@ Sou um desenvolvedor Java, focado em criar plugins para Minecraft e em melhorar 
 ## Tecnologias e Ferramentas
 - **Linguagens**: Java & C#.
 - **Ferramentas**: IntelliJ IDEA, Visual Studio & Visual Studio Code.
-- **Frameworks**: Bukkit/Spigot API (Minecraft).
+- **Frameworks**: Bukkit, Spigot, Paper & Velocity (Minecraft).
 
 ---
 
