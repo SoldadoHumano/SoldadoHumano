@@ -14,7 +14,7 @@ Sou um desenvolvedor Java, focado em criar plugins para Minecraft e em melhorar 
 ## Projetos em Destaque
 
 - DeepCraft: [DeepCraft-1.0](https://github.com/SoldadoHumano/DEEPCRAFT-1.0)
-- Website MestreJinBruno: [Site](https://soldadohumano.github.io/mestrejinbruno/)
+- Website MestreJinBruno: [Site](https://soldadohumano.github.io/mestrejinbruno/), [Repositório](https://github.com/SoldadoHumano/mestrejinbruno)
 - FlappyBird: [FlappyBird](https://github.com/SoldadoHumano/FlappyBird)
 - vExp: [vExp](https://github.com/SoldadoHumano/vExp)
 
