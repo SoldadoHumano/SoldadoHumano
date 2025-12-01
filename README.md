@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vitor!
+<h1 align="center">👋 Hello, I'm Vitor!</h1>
 
 I am a **Fullstack Developer** with a primary focus on **Backend systems (Java/Kotlin)** and **Minecraft Plugin Development**. I am passionate about creating robust, efficient, and scalable applications, and I apply my skills across all layers of development, from **front-end** interfaces to **database management**.
 
