@@ -61,7 +61,6 @@ Here are some projects that highlight my skills and experience:
 | **DeepCraft** | A core project demonstrating advanced plugin development. | Java, TailWind CSS, JavaScript, MariaDB | [Repository (DeepCraft-1.0)](https://github.com/SoldadoHumano/DEEPCRAFT-1.0) |
 | **StreamEngine** | A "Starting Soon" screen engine with countdown, music playlist, and dynamic visualizations for my Twitch streams. | Node.js, Socket.IO, HTML/CSS/JS | [Repository](https://github.com/SoldadoHumano/StreamEngine) |
 | **MestreJinBruno Website** | WebSite dedicated for my streamer friend Bruno Silva. | JavaScript, TailWind CSS | [WebSite](https://soldadohumano.github.io/mestrejinbruno/) / [Repository](https://github.com/SoldadoHumano/mestrejinbruno) |
-| **FlappyBird** | Implementation of the classic FlappyBird game. | Java / Game Development | [Repository (FlappyBird)](https://github.com/SoldadoHumano/FlappyBird) |
 | **vExp** | A utility exp management pluign, showcasing fundamental programming concepts. | Java | [Repository (vExp)](https://github.com/SoldadoHumano/vExp) |
 
 -----
