@@ -51,16 +51,11 @@ When the code calls, you'll find me fueled by coffee ☕ and listening to music 
 
 -----
 
-## ✨ Featured Projects
+## ✨ Projects & Portfolio
 
-Here are some projects that highlight my skills and experience:
+I centralize my technical projects and high-performance solutions on my personal website. From **Netty-based Minecraft plugins** to **real-time streaming tools**, you can find the deep dives and live demonstrations there.
 
-| Project | Description | Technology/Focus | Links |
-| :--- | :--- | :--- | :--- |
-| **vPortrait** | High-performance image rendering engine for Minecraft using Glow Item Frames and Netty pipeline injection. | Java 21, Netty, Packet Manipulation | [Repository](https://github.com/SoldadoHumano/vPortrait) |
-| **StreamEngine** | A "Starting Soon" screen engine with countdown, music playlist, and dynamic visualizations for my Twitch streams. | Node.js, Socket.IO, HTML/CSS/JS | [Repository](https://github.com/SoldadoHumano/StreamEngine) |
-| **MestreJinBruno Website** | WebSite dedicated for my streamer friend Bruno Silva. | JavaScript, TailWind CSS | [WebSite](https://soldadohumano.github.io/mestrejinbruno/) / [Repository](https://github.com/SoldadoHumano/mestrejinbruno) |
-| **vExp** | A utility exp management pluign, showcasing fundamental programming concepts. | Java | [Repository (vExp)](https://github.com/SoldadoHumano/vExp) |
+* 🌐 Visit my Portfolio: [byvitor.com.br](https://www.byvitor.com.br)
 
 -----
 
@@ -69,5 +64,5 @@ Here are some projects that highlight my skills and experience:
 I'm always open to discussing new opportunities, collaborations, or challenging projects!
 
   * **Discord**: `vitor1227_op`
-  * **Website**: https://www.byvitor.com.br
+  * **Website**: [byvitor.com.br](https://www.byvitor.com.br)
   
